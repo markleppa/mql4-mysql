@@ -27,7 +27,7 @@
   int memcpy(char &Destination[], int Source, int Length);
   int memcpy(char &Destination[], long Source, int Length);
   int memcpy(int &dst,  int src, int cnt);
-  int memcpy(long &dst,  long src, int cnt);  
+  int memcpy(long &dst,  long src, int cnt);   
 #import
  
 #import "libmysql.dll"
